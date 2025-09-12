@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
-title: My Custom Site Title
-description: A short description about my site
+title: Matthew Martin | Portfolio
+description: Computer scientist & biologist. Portfolio showcasing projects, research, and skills.
+author: Matthew Martin
+url: "https://matthewmartin117.github.io"
+baseurl: ""
+markdown: kramdown
