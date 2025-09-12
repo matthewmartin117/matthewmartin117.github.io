@@ -31,7 +31,7 @@ Pandas, NumPy, Clinical & Lab workflows
 
 <!-- Project 1 -->
 <div class="project-card">
-  <img src="assets/images/pneumonia.png" alt="Pneumonia Detection Screenshot" />
+  <img src="assets/images/MLlung.png" alt="Pneumonia Detection Screenshot" />
   <h3>Pneumonia Detection — Deep Learning</h3>
   <p>Built CNN + VGG16 models with class weighting and augmentation. Achieved 86% accuracy, 0.92 recall.</p>
   <p><strong>Tech:</strong> TensorFlow, Keras</p>
@@ -40,7 +40,7 @@ Pandas, NumPy, Clinical & Lab workflows
 
 <!-- Project 2 -->
 <div class="project-card">
-  <img src="assets/images/heart.png" alt="Heart Disease Prediction Screenshot" />
+  <img src="assets/images/heart.jpg" alt="Heart Disease Prediction Screenshot" />
   <h3>Heart Disease Prediction — Supervised Learning</h3>
   <p>Analyzed 400K CDC survey responses; trained Decision Trees, Random Forests, Gradient Boost models (~90% recall).</p>
   <p><strong>Tech:</strong> Scikit-learn, Pandas, NumPy</p>
@@ -49,7 +49,7 @@ Pandas, NumPy, Clinical & Lab workflows
 
 <!-- Project 3 -->
 <div class="project-card">
-  <img src="assets/images/breast_cancer.png" alt="Breast Cancer Gene Clustering Screenshot" />
+  <img src="assets/images/cancer.jpg" alt="Breast Cancer Gene Clustering Screenshot" />
   <h3>Breast Cancer Gene Expression Clustering</h3>
   <p>Applied PCA & K-Means on 54K+ gene features to identify patient subtypes.</p>
   <p><strong>Tech:</strong> PCA, K-Means</p>
@@ -58,7 +58,7 @@ Pandas, NumPy, Clinical & Lab workflows
 
 <!-- Project 4 -->
 <div class="project-card">
-  <img src="assets/images/telemetry.png" alt="C++ Real-Time Telemetry Screenshot" />
+  <img src="assets/images/Telemetry.jpg" alt="C++ Real-Time Telemetry Screenshot" />
   <h3>C++ Real-Time Telemetry Data Processing</h3>
   <p>Processed high-frequency data streams and rendered dynamic charts with SFML.</p>
   <p><strong>Tech:</strong> C++, SFML</p>
@@ -67,7 +67,7 @@ Pandas, NumPy, Clinical & Lab workflows
 
 <!-- Project 5 -->
 <div class="project-card">
-  <img src="assets/images/epidemic.png" alt="Epidemic Modeling Web App Screenshot" />
+  <img src="assets/images/epidemic.avif" alt="Epidemic Modeling Web App Screenshot" />
   <h3>Epidemic Modeling Web Application</h3>
   <p>Simulates infectious disease spread (SIRD/COVID-19) with interactive dashboards.</p>
   <p><strong>Tech:</strong> Python, Flask, JS, React</p>
