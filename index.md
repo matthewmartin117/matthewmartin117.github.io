@@ -27,31 +27,54 @@ Pandas, NumPy, Clinical & Lab workflows
 <!-- PROJECTS SECTION -->
 ## Projects
 
-### Pneumonia Detection — Deep Learning
-**Tech:** TensorFlow, Keras  
-Built CNN + VGG16 transfer learning models with class weighting and augmentation.  
-Achieved 86% accuracy and 0.92 recall.  
-[GitHub](#) | [Screenshot](assets/images/pneumonia.png)
+<div class="projects-grid">
 
-### Heart Disease Prediction — Supervised Learning
-**Tech:** Scikit-learn, Pandas, NumPy  
-Analyzed 400K CDC survey responses; trained Decision Trees, Random Forests, Gradient Boost models (~90% recall).  
-[GitHub](#) | [Screenshot](assets/images/heart.png)
+<!-- Project 1 -->
+<div class="project-card">
+  <img src="assets/images/pneumonia.png" alt="Pneumonia Detection Screenshot" />
+  <h3>Pneumonia Detection — Deep Learning</h3>
+  <p>Built CNN + VGG16 models with class weighting and augmentation. Achieved 86% accuracy, 0.92 recall.</p>
+  <p><strong>Tech:</strong> TensorFlow, Keras</p>
+  <a href="#">GitHub</a>
+</div>
 
-### Breast Cancer Gene Expression Clustering
-**Tech:** PCA, K-Means  
-Processed 54K+ gene features; applied PCA & K-Means to identify patient subtypes.  
-[GitHub](#)
+<!-- Project 2 -->
+<div class="project-card">
+  <img src="assets/images/heart.png" alt="Heart Disease Prediction Screenshot" />
+  <h3>Heart Disease Prediction — Supervised Learning</h3>
+  <p>Analyzed 400K CDC survey responses; trained Decision Trees, Random Forests, Gradient Boost models (~90% recall).</p>
+  <p><strong>Tech:</strong> Scikit-learn, Pandas, NumPy</p>
+  <a href="#">GitHub</a>
+</div>
 
-### C++ Real-Time Telemetry Data Processing
-**Tech:** C++, SFML  
-Processed high-frequency real-time data; interactive visualization with SFML for dynamic charts.  
-[GitHub](#)
+<!-- Project 3 -->
+<div class="project-card">
+  <img src="assets/images/breast_cancer.png" alt="Breast Cancer Gene Clustering Screenshot" />
+  <h3>Breast Cancer Gene Expression Clustering</h3>
+  <p>Applied PCA & K-Means on 54K+ gene features to identify patient subtypes.</p>
+  <p><strong>Tech:</strong> PCA, K-Means</p>
+  <a href="#">GitHub</a>
+</div>
 
-### Epidemic Modeling Web Application
-**Tech:** Python, Flask, JS, React  
-Simulates disease spread (SIRD/COVID-19); backend calculations with frontend dashboards.  
-[GitHub](#)
+<!-- Project 4 -->
+<div class="project-card">
+  <img src="assets/images/telemetry.png" alt="C++ Real-Time Telemetry Screenshot" />
+  <h3>C++ Real-Time Telemetry Data Processing</h3>
+  <p>Processed high-frequency data streams and rendered dynamic charts with SFML.</p>
+  <p><strong>Tech:</strong> C++, SFML</p>
+  <a href="#">GitHub</a>
+</div>
+
+<!-- Project 5 -->
+<div class="project-card">
+  <img src="assets/images/epidemic.png" alt="Epidemic Modeling Web App Screenshot" />
+  <h3>Epidemic Modeling Web Application</h3>
+  <p>Simulates infectious disease spread (SIRD/COVID-19) with interactive dashboards.</p>
+  <p><strong>Tech:</strong> Python, Flask, JS, React</p>
+  <a href="#">GitHub</a>
+</div>
+
+</div>
 
 ---
 
