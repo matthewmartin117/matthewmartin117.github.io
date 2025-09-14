@@ -74,7 +74,6 @@ Pandas, NumPy, Clinical & Lab workflows
   <a href="https://github.com/matthewmartin117/SIRMODEL">GitHub</a>
 </div>
 
-</div>
 
 <!-- Project 6 -->
 <div class="project-card">
@@ -82,7 +81,7 @@ Pandas, NumPy, Clinical & Lab workflows
   <h3>Epidemic Modeling Web Application</h3>
   <p>Simulates infectious disease spread (SIRD/COVID-19) with interactive dashboards.</p>
   <p><strong>Tech:</strong> Python, Flask, JS, React</p>
-  <a href="https://github.com/matthewmartin117/SIRMODEL](https://github.com/matthewmartin117/hi5ive">GitHub</a>
+  <a href="https://github.com/matthewmartin117/SIRMODEL">GitHub</a>
 </div>
 
 </div>
