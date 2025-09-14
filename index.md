@@ -35,7 +35,7 @@ Pandas, NumPy, Clinical & Lab workflows
   <h3>Pneumonia Detection — Deep Learning</h3>
   <p>Built CNN + VGG16 models with class weighting and augmentation. Achieved 86% accuracy, 0.92 recall.</p>
   <p><strong>Tech:</strong> TensorFlow, Keras</p>
-  <a href="#">GitHub</a>
+  <a href="https://github.com/matthewmartin117/Pnuemonia-Detection-Deep-Learning">GitHub</a>
 </div>
 
 <!-- Project 2 -->
@@ -44,7 +44,7 @@ Pandas, NumPy, Clinical & Lab workflows
   <h3>Heart Disease Prediction — Supervised Learning</h3>
   <p>Analyzed 400K CDC survey responses; trained Decision Trees, Random Forests, Gradient Boost models (~90% recall).</p>
   <p><strong>Tech:</strong> Scikit-learn, Pandas, NumPy</p>
-  <a href="#https://github.com/matthewmartin117/Mini-Project-Deep-Learning">GitHub</a>
+  <a href="">GitHub</a>
 </div>
 
 <!-- Project 3 -->
@@ -53,7 +53,7 @@ Pandas, NumPy, Clinical & Lab workflows
   <h3>Breast Cancer Gene Expression Clustering</h3>
   <p>Applied PCA & K-Means on 54K+ gene features to identify patient subtypes.</p>
   <p><strong>Tech:</strong> PCA, K-Means</p>
-  <a href="#">GitHub</a>
+  <a href="https://github.com/matthewmartin117/Breast-Cancer-Clustering-unsupervised-Learning">GitHub</a>
 </div>
 
 <!-- Project 4 -->
@@ -62,7 +62,7 @@ Pandas, NumPy, Clinical & Lab workflows
   <h3>C++ Real-Time Telemetry Data Processing</h3>
   <p>Processed high-frequency data streams and rendered dynamic charts with SFML.</p>
   <p><strong>Tech:</strong> C++, SFML</p>
-  <a href="#">GitHub</a>
+  <a href="https://github.com/matthewmartin117/TelemetryVisualization">GitHub</a>
 </div>
 
 <!-- Project 5 -->
@@ -71,7 +71,7 @@ Pandas, NumPy, Clinical & Lab workflows
   <h3>Epidemic Modeling Web Application</h3>
   <p>Simulates infectious disease spread (SIRD/COVID-19) with interactive dashboards.</p>
   <p><strong>Tech:</strong> Python, Flask, JS, React</p>
-  <a href="#">GitHub</a>
+  <a href="https://github.com/matthewmartin117/SIRMODEL">GitHub</a>
 </div>
 
 </div>
