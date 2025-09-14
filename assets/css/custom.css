@@ -12,6 +12,10 @@
   background-color: #fff;
   box-shadow: 0 4px 6px rgba(0,0,0,0.05);
   transition: transform 0.2s;
+
+  display: flex;           /* make card a flex container */
+  flex-direction: column;  /* stack content vertically */
+  justify-content: space-between; /* push GitHub link to bottom */
 }
 
 .project-card:hover {
@@ -32,11 +36,12 @@
 .project-card p {
   font-size: 0.95rem;
   margin: 5px 0;
+  flex-grow: 1;  /* ensures paragraph takes up space, pushing link down */
 }
 
 .project-card a {
   display: inline-block;
-  margin-top: 8px;
+  margin-top: 10px;
   color: #007acc;
   text-decoration: none;
   font-weight: bold;
