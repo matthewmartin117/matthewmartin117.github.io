@@ -44,7 +44,7 @@ Pandas, NumPy, Clinical & Lab workflows
   <h3>Heart Disease Prediction — Supervised Learning</h3>
   <p>Analyzed 400K CDC survey responses; trained Decision Trees, Random Forests, Gradient Boost models (~90% recall).</p>
   <p><strong>Tech:</strong> Scikit-learn, Pandas, NumPy</p>
-  <a href="https://github.com/matthewmartin117/HeartDisease-SupervisedLearning">GitHub</a>
+  <a href="https://github.com/matthewmartin117/HeartDisease-SupervisedLearning](https://github.com/matthewmartin117/HeartDisease-SupervisedLearning">GitHub</a>
 </div>
 
 <!-- Project 3 -->
