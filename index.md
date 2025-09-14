@@ -64,10 +64,10 @@ Clinical & lab workflows, data preprocessing, exploratory data analysis
 ## Experience
 
 **Software Engineering Intern | AstraZeneca** — May 2025–Aug 2025  
-- Designed data ingestion & preprocessing pipelines to migrate experimental datasets from Excel into SQL Server for ML workflows  
-- Implemented schema normalization and validation for large datasets  
-- Collaborated with data engineers and scientists to align pipelines with analytical modeling and predictive use cases  
-- Delivered scalable, reproducible solutions with code reviews, demos, and documentation  
+- Developed a **C#/.NET Windows Forms application** to automate ingestion of Excel-based experimental datasets into **SQL Server**, enabling downstream ML workflows.  
+- Implemented **data parsing, validation, and schema normalization**, ensuring large-scale experimental data was clean, structured, and ML-ready.  
+- Collaborated with **data engineers and research scientists** in Agile sprints, delivering **reproducible ML pipelines** with demos and documentation.  
+- **Tech & Tools:** C#, .NET, SQL Server, Excel automation, Python (for ML integration), Spotfire, ETL pipelines, Data Modeling, Agile  
 
 **Sampling Coordinator | United States Pharmacopeia** — Mar 2022–Jan 2023  
 - Managed pharmaceutical data collection and logging using Oracle systems  
