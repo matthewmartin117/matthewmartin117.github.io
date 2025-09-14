@@ -6,7 +6,7 @@ title: Matthew Martin | Portfolio
 # Matthew Martin
 **Computer Scientist & Biologist**  
 I build projects at the intersection of software, machine learning, and health sciences.  
-[View Projects](#projects) | [Download Resume](assets/Matthew_Martin_Resume.pdf)
+[View Projects](#projects) | [Download Resume](assets/resumes/AIresume)
 
 ---
 
@@ -44,7 +44,7 @@ Pandas, NumPy, Clinical & Lab workflows
   <h3>Heart Disease Prediction — Supervised Learning</h3>
   <p>Analyzed 400K CDC survey responses; trained Decision Trees, Random Forests, Gradient Boost models (~90% recall).</p>
   <p><strong>Tech:</strong> Scikit-learn, Pandas, NumPy</p>
-  <a href="#">GitHub</a>
+  <a href="#https://github.com/matthewmartin117/Mini-Project-Deep-Learning">GitHub</a>
 </div>
 
 <!-- Project 3 -->
