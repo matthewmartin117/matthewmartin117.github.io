@@ -6,7 +6,7 @@ title: Matthew Martin | Portfolio
 # Matthew Martin
 **Computer Scientist & Biologist**  
 I build projects at the intersection of software, machine learning, and health sciences.  
-[View Projects](#projects) | [Download Resume](assets/resumes/AIresume)
+[View Projects](#projects) | [Download Resume](assets/resumes/AIresume.pdf))
 
 ---
 
