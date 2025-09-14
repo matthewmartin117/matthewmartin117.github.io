@@ -84,6 +84,8 @@ Pandas, NumPy, Clinical & Lab workflows
   <a href="https://github.com/matthewmartin117/hi5ive">GitHub</a>
 </div>
 
+</div>
+
 ---
 
 <!-- EXPERIENCE SECTION -->
