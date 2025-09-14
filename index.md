@@ -6,7 +6,7 @@ title: Matthew Martin | Portfolio
 # Matthew Martin
 **Computer Scientist & Biologist**  
 I build projects at the intersection of software, machine learning, and health sciences.  
-[View Projects](#projects) | [Download Resume](assets/resumes/AIresume.pdf))
+[View Projects](#projects) | [Download Resume](assets/resumes/AIresume.pdf)
 
 ---
 
@@ -14,13 +14,13 @@ I build projects at the intersection of software, machine learning, and health s
 ## Skills
 
 ### Programming & ML
-Python, C#, Java, SQL, TensorFlow, PyTorch, Keras, Scikit-learn, Flask, React
+Python, C#, Java, SQL, TensorFlow, PyTorch, Keras, Pandas, NumPy, Scikit-learn, Flask, React
 
 ### Tools & Cloud
 Git, Docker, AWS
 
 ### Data & Research
-Pandas, NumPy, Clinical & Lab workflows
+Clinical & lab workflows, data preprocessing, exploratory data analysis
 
 ---
 
@@ -33,7 +33,7 @@ Pandas, NumPy, Clinical & Lab workflows
 <div class="project-card">
   <img src="assets/images/MLlung.png" alt="Pneumonia Detection Screenshot" />
   <h3>Pneumonia Detection — Deep Learning</h3>
-  <p>Built CNN + VGG16 models with class weighting and augmentation. Achieved 86% accuracy, 0.92 recall.</p>
+  <p>Built custom CNN + VGG16 transfer learning models with class weighting and augmentation. Achieved 86% accuracy and 0.92 recall, showing potential for real-world diagnostic support.</p>
   <p><strong>Tech:</strong> TensorFlow, Keras</p>
   <a href="https://github.com/matthewmartin117/Pnuemonia-Detection-Deep-Learning">GitHub</a>
 </div>
@@ -42,46 +42,18 @@ Pandas, NumPy, Clinical & Lab workflows
 <div class="project-card">
   <img src="assets/images/heart.jpg" alt="Heart Disease Prediction Screenshot" />
   <h3>Heart Disease Prediction — Supervised Learning</h3>
-  <p>Analyzed 400K CDC survey responses; trained Decision Trees, Random Forests, Gradient Boost models (~90% recall).</p>
+  <p>Conducted EDA and feature engineering on 400K CDC survey responses (40+ features). Trained Decision Trees, Random Forests, and Gradient Boost models; achieved ~90% recall for positive cases.</p>
   <p><strong>Tech:</strong> Scikit-learn, Pandas, NumPy</p>
-  <a href="https://github.com/matthewmartin117/HeartDisease-SupervisedLearning](https://github.com/matthewmartin117/HeartDisease-SupervisedLearning">GitHub</a>
+  <a href="https://github.com/matthewmartin117/HeartDisease-SupervisedLearning">GitHub</a>
 </div>
 
 <!-- Project 3 -->
 <div class="project-card">
   <img src="assets/images/cancer.jpg" alt="Breast Cancer Gene Clustering Screenshot" />
   <h3>Breast Cancer Gene Expression Clustering</h3>
-  <p>Applied PCA & K-Means on 54K+ gene features to identify patient subtypes.</p>
+  <p>Processed a high-dimensional dataset of 54,000+ gene features. Applied PCA for dimensionality reduction and K-Means clustering to identify distinct biological patterns and patient subtypes across samples.</p>
   <p><strong>Tech:</strong> PCA, K-Means</p>
   <a href="https://github.com/matthewmartin117/Breast-Cancer-Clustering-unsupervised-Learning">GitHub</a>
-</div>
-
-<!-- Project 4 -->
-<div class="project-card">
-  <img src="assets/images/Telemetry.jpg" alt="C++ Real-Time Telemetry Screenshot" />
-  <h3>C++ Real-Time Telemetry Data Processing</h3>
-  <p>Processed high-frequency data streams and rendered dynamic charts with SFML.</p>
-  <p><strong>Tech:</strong> C++, SFML</p>
-  <a href="https://github.com/matthewmartin117/TelemetryVisualization">GitHub</a>
-</div>
-
-<!-- Project 5 -->
-<div class="project-card">
-  <img src="assets/images/epidemic.avif" alt="Epidemic Modeling Web App Screenshot" />
-  <h3>Epidemic Modeling Web Application</h3>
-  <p>Simulates infectious disease spread (SIRD/COVID-19) with interactive dashboards.</p>
-  <p><strong>Tech:</strong> Python, Flask, JS, React</p>
-  <a href="https://github.com/matthewmartin117/SIRMODEL">GitHub</a>
-</div>
-
-
-<!-- Project 6 -->
-<div class="project-card">
-  <img src="assets/images/hifive.png" alt="Hifive app screenshot" />
-  <h3>Epidemic Modeling Web Application</h3>
-  <p>Simulates infectious disease spread (SIRD/COVID-19) with interactive dashboards.</p>
-  <p><strong>Tech:</strong> Python, Flask, JS, React</p>
-  <a href="https://github.com/matthewmartin117/hi5ive">GitHub</a>
 </div>
 
 </div>
@@ -92,32 +64,35 @@ Pandas, NumPy, Clinical & Lab workflows
 ## Experience
 
 **Software Engineering Intern | AstraZeneca** — May 2025–Aug 2025  
-- Built data ingestion pipelines from Excel → SQL Server for ML workflows  
-- Implemented schema normalization & validation for large datasets  
-- Collaborated with engineers and scientists for predictive modeling  
+- Designed data ingestion & preprocessing pipelines to migrate experimental datasets from Excel into SQL Server for ML workflows  
+- Implemented schema normalization and validation for large datasets  
+- Collaborated with data engineers and scientists to align pipelines with analytical modeling and predictive use cases  
+- Delivered scalable, reproducible solutions with code reviews, demos, and documentation  
 
 **Sampling Coordinator | United States Pharmacopeia** — Mar 2022–Jan 2023  
-- Managed pharmaceutical data collection and logging in Oracle  
-- Coordinated global logistics of regulated materials  
+- Managed pharmaceutical data collection and logging using Oracle systems  
+- Coordinated global logistics of regulated materials, ensuring precision and compliance with data-driven processes  
 
-**Research Associate | Curative Health** — Aug–Dec 2021  
-- Processed large-scale COVID PCR datasets, including CN tracking  
-- Ensured data quality at scale for variant monitoring  
+**Research Associate | Curative Health** — Aug 2021–Dec 2021  
+- Processed and analyzed large-scale COVID-19 PCR datasets, including qPCR and CN value tracking  
+- Developed methods to ensure data quality at scale, enabling accurate variant monitoring  
 
 ---
 
 <!-- EDUCATION SECTION -->
 ## Education
+
 **B.S. Computer Science** — University of Colorado Boulder, GPA 4.0, Dec 2025  
+Awards: Dean's List Student, CSPB Orientation Leader  
+
 **B.S. Biology** — James Madison University, Jul 2021  
-Awards: Dean's List, CSPB Orientation Leader  
+Awards: Dean's List Student  
 
 ---
 
 <!-- CONTACT SECTION -->
 ## Contact
-Reach out for collaboration or inquiries:  
 
 📧 matthewmartin117@gmail.com  
-[LinkedIn](https://linkedin.com/in/matthew-martin) | [GitHub](https://github.com/username)
+[LinkedIn](https://www.linkedin.com/in/matthew-martin-373787269/) | [GitHub](https://github.com/matthewmartin117)
 
