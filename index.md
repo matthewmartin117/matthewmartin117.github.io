@@ -1,6 +1,7 @@
 ---
 title: Matthew Martin | Portfolio
 ---
+<link rel="stylesheet" href="assets/css/custom.css">
 
 <!-- HERO SECTION -->
 # Matthew Martin
