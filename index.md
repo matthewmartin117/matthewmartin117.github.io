@@ -126,9 +126,9 @@ Awards: Dean's List Student
 [LinkedIn](https://www.linkedin.com/in/matthew-martin-373787269/) | [GitHub](https://github.com/matthewmartin117)
 
 
----
 
 <!-- BLOG SECTION -->
+<!--
 ## Blog
 
 Stay updated on my latest projects and experiments:  
@@ -136,14 +136,15 @@ Stay updated on my latest projects and experiments:
 <div class="blog-posts">
 
 <!-- Blog Post 1 -->
+<!--
 <div class="blog-post-card">
   <h3>Setting up OOP classes and methods in a Biological API for health information</h3>
   <p><em>September 2025</em></p>
   <p>/p>
   <a href="#">Read More</a>
 </div>
-
-<!-- Blog Post 2 -->
+-->
+<!-- 
 <div class="blog-post-card">
   <h3>AWS integration with biological API</h3>
   <p><em>September 2025</em></p>
@@ -153,3 +154,4 @@ Stay updated on my latest projects and experiments:
 
 </div>
 
+Blog Post 2 -->
