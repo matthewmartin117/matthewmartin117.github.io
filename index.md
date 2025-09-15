@@ -137,18 +137,18 @@ Stay updated on my latest projects and experiments:
 
 <!-- Blog Post 1 -->
 <div class="blog-post-card">
-  <h3>Exploring Transformer Models for COVID Variant Prediction</h3>
+  <h3>Setting up OOP classes and methods in a Biological API for health information</h3>
   <p><em>September 2025</em></p>
-  <p>Currently building a pipeline to predict emerging COVID variants using genomic data and transformer-based models. Exploring preprocessing techniques for high-dimensional datasets and integration with ML dashboards.</p>
-  <a href="blog/transformer-covid.html">Read More</a>
+  <p>/p>
+  <a href="#">Read More</a>
 </div>
 
 <!-- Blog Post 2 -->
 <div class="blog-post-card">
-  <h3>Improving Telemetry Visualization Performance</h3>
-  <p><em>August 2025</em></p>
-  <p>Working on optimizing my C++ real-time telemetry system to handle higher frequency data streams with minimal latency and smoother visualizations.</p>
-  <a href="blog/telemetry-update.html">Read More</a>
+  <h3>AWS integration with biological API</h3>
+  <p><em>September 2025</em></p>
+  <p></p>
+  <a href="#">Read More</a>
 </div>
 
 </div>
