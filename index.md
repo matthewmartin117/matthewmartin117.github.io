@@ -125,3 +125,31 @@ Awards: Dean's List Student
 📧 matthewmartin117@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/matthew-martin-373787269/) | [GitHub](https://github.com/matthewmartin117)
 
+
+---
+
+<!-- BLOG SECTION -->
+## Blog
+
+Stay updated on my latest projects and experiments:  
+
+<div class="blog-posts">
+
+<!-- Blog Post 1 -->
+<div class="blog-post-card">
+  <h3>Exploring Transformer Models for COVID Variant Prediction</h3>
+  <p><em>September 2025</em></p>
+  <p>Currently building a pipeline to predict emerging COVID variants using genomic data and transformer-based models. Exploring preprocessing techniques for high-dimensional datasets and integration with ML dashboards.</p>
+  <a href="blog/transformer-covid.html">Read More</a>
+</div>
+
+<!-- Blog Post 2 -->
+<div class="blog-post-card">
+  <h3>Improving Telemetry Visualization Performance</h3>
+  <p><em>August 2025</em></p>
+  <p>Working on optimizing my C++ real-time telemetry system to handle higher frequency data streams with minimal latency and smoother visualizations.</p>
+  <a href="blog/telemetry-update.html">Read More</a>
+</div>
+
+</div>
+
