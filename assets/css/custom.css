@@ -50,3 +50,46 @@
 .project-card a:hover {
   text-decoration: underline;
 }
+
+.blog-posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.blog-post-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 15px;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  transition: transform 0.2s;
+}
+
+.blog-post-card:hover {
+  transform: translateY(-5px);
+}
+
+.blog-post-card h3 {
+  margin: 0 0 5px;
+  font-size: 1.1rem;
+}
+
+.blog-post-card p {
+  font-size: 0.9rem;
+  margin: 5px 0;
+}
+
+.blog-post-card a {
+  margin-top: 8px;
+  display: inline-block;
+  color: #007acc;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.blog-post-card a:hover {
+  text-decoration: underline;
+}
+
