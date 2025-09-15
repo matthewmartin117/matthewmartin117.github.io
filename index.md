@@ -51,7 +51,7 @@ Clinical & lab workflows, data preprocessing, exploratory data analysis
 
 <!-- Project 3 -->
 <div class="project-card">
-  <img src="assets/images/cancer.png" alt="Breast Cancer Gene Clustering Screenshot" />
+  <img src="assets/images/cancer.jpg" alt="Breast Cancer Gene Clustering Screenshot" />
   <h3>Breast Cancer Gene Expression Clustering</h3>
   <p>Applied PCA & K-Means on 54K+ gene features to identify patient subtypes.</p>
   <p><strong>Tech:</strong> PCA, K-Means</p>
