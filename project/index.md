@@ -9,7 +9,7 @@ This page will contain all updates, reports, and materials related to the projec
 
 ---
 
-## 📄 Proposal  
+## Proposal  
 [View Proposal](proposal.md)
 
 ---
