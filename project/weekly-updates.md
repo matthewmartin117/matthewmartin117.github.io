@@ -10,6 +10,7 @@ title: Weekly Updates
 
 ## Week 2
 - [ ] Setup repo  
-- [ ] Began coding core functionality  
+- [ ] Learn base Java concepts
+- [ ] Set up core functionality of app; classes and file structure
 
-(Add weeks as the semester goes on)
+## Week 3 
