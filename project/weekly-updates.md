@@ -18,6 +18,6 @@ title: Weekly Updates
 - [ ] Finalize project proposal
 - [ ] Installing technologies and configuring dependencies
 
-Reflection: I think having a clear timeline with key deliverables is key for this class, as it prevents me from spending more time than necessary , or less time than necessary because I know exactly what i need to have completed each week in order to have the project done in 10 weeks. 
+Reflection: I think having a clear timeline with key deliverables is key for this project, as it prevents me from spending more time than necessary , or less time than necessary because I know exactly what i need to have completed each week in order to have the project done in 10 weeks. 
 
 ## Week 4 
