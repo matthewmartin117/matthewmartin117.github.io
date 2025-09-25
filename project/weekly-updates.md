@@ -21,3 +21,7 @@ title: Weekly Updates
 Reflection: I think having a clear timeline with key deliverables is key for this project, as it prevents me from spending more time than necessary , or less time than necessary because I know exactly what i need to have completed each week in order to have the project done in 10 weeks. 
 
 ## Week 4 
+- [ ] Populate a Trello board with key features and deliverables, with the timeline.
+- [ ] Bootstrapped the project using Maven, able to create a file structure and include Spring Boot dependencies.
+- [ ] Designed modular classes for the Data Model aspect of my project, produced an entity relational diagram.
+
