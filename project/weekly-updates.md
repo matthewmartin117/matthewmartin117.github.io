@@ -22,6 +22,8 @@ Reflection: I think having a clear timeline with key deliverables is key for thi
 
 ## Week 4 
 - [ ] Populate a Trello board with key features and deliverables, with the timeline.
-- [ ] Bootstrapped the project using Maven, able to create a file structure and include Spring Boot dependencies.
-- [ ] Designed modular classes for the Data Model aspect of my project, produced an entity relational diagram.
+- [ ] Bootstrap the project using Maven, create a file structure and include Spring Boot dependencies.
+- [ ] Design modular classes for the Data Model aspect of my project, produce an entity relational diagram.
+
+Reflection: The biggest obstacles so far have been time , but I decided to invest more time in the project than necessary since I am a part time student, so I have the free time to allocate towards the project. The other obstacle was creating actionable clear deliverables so I know what i need to do when i sit down at my computer but getting Trello set up has solved that.
 
