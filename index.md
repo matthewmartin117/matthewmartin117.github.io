@@ -7,7 +7,28 @@ title: Matthew Martin | Portfolio
 # Matthew Martin
 **Computer Scientist & Biologist**  
 I build projects at the intersection of software, machine learning, and health sciences.  
+
+Currently pursuing a Bachelor's degree in Computer Science at the University of Colorado Boulder, with a solid foundation in biology from James Madison University. As a Software Engineer Intern at AstraZeneca, contributed to designing and developing a C#/.NET Windows Forms application that replaced a legacy tool for importing and normalizing experimental data into SQL Server. Core competencies include .NET Framework, SQL Server, and data engineering, with a focus on creating scalable and maintainable solutions. I am passionate about concepts like AI, Machine Learning, and using them in healthcare.
+
 [View Projects](#projects) | [Download Resume](assets/resumes/AIresume.pdf)
+
+---
+<!-- EDUCATION SECTION -->
+## Education
+
+**B.S. Computer Science** — University of Colorado Boulder, GPA 4.0, Dec 2025  
+Awards: Dean's List Student, CSPB Orientation Leader  
+
+**B.S. Biology** — James Madison University, Jul 2021  
+Awards: Dean's List Student  
+
+---
+
+<!-- CONTACT SECTION -->
+## Contact
+
+📧 matthewmartin117@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/matthew-martin-373787269/) | [GitHub](https://github.com/matthewmartin117)
 
 ---
 
@@ -15,13 +36,21 @@ I build projects at the intersection of software, machine learning, and health s
 ## Skills
 
 ### Programming & ML
-Python, C#, Java, SQL, TensorFlow, PyTorch, Keras, Pandas, NumPy, Scikit-learn, Flask, React
+Python, C#, Java, SQL, TensorFlow, PyTorch, Keras, Pandas, NumPy, Scikit-learn, Flask, React, Spring Boot
 
 ### Tools & Cloud
-Git, Docker, AWS
+Git, Docker, AWS, Maven, Postman
 
 ### Data & Research
 Clinical & lab workflows, data preprocessing, exploratory data analysis
+
+
+## Relevant Coursework
+- Software Engineering
+- Data Science
+- Machine Learning
+- Natural Language Processing
+- Data Structures & Algorithms
 
 ---
 
@@ -113,22 +142,8 @@ Clinical & lab workflows, data preprocessing, exploratory data analysis
 
 ---
 
-<!-- EDUCATION SECTION -->
-## Education
 
-**B.S. Computer Science** — University of Colorado Boulder, GPA 4.0, Dec 2025  
-Awards: Dean's List Student, CSPB Orientation Leader  
 
-**B.S. Biology** — James Madison University, Jul 2021  
-Awards: Dean's List Student  
-
----
-
-<!-- CONTACT SECTION -->
-## Contact
-
-📧 matthewmartin117@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/matthew-martin-373787269/) | [GitHub](https://github.com/matthewmartin117)
 
 
 
