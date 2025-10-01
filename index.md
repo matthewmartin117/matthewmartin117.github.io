@@ -14,6 +14,9 @@ Currently pursuing a Bachelor's degree in Computer Science at the University of 
 
 I aim to pursue a career at the intersection of computer science and life sciences, building AI and data-driven tools that improve healthcare outcomes. My long-term goal is to develop software and machine learning solutions for biotech, health tech, or pharmaceutical organizations, while continuing to grow as a researcher and engineer.
 
+
+---
+
 [View Projects](#projects) | [Download Resume](assets/resumes/AIresume.pdf)
 
 ---
