@@ -10,6 +10,10 @@ I build projects at the intersection of software, machine learning, and health s
 
 Currently pursuing a Bachelor's degree in Computer Science at the University of Colorado Boulder, with a solid foundation in biology from James Madison University. As a Software Engineer Intern at AstraZeneca, contributed to designing and developing a C#/.NET Windows Forms application that replaced a legacy tool for importing and normalizing experimental data into SQL Server. Core competencies include .NET Framework, SQL Server, and data engineering, with a focus on creating scalable and maintainable solutions. I am passionate about concepts like AI, Machine Learning, and using them in healthcare.
 
+**Career Goals**
+
+I aim to pursue a career at the intersection of computer science and life sciences, building AI and data-driven tools that improve healthcare outcomes. My long-term goal is to develop software and machine learning solutions for biotech, health tech, or pharmaceutical organizations, while continuing to grow as a researcher and engineer.
+
 [View Projects](#projects) | [Download Resume](assets/resumes/AIresume.pdf)
 
 ---
