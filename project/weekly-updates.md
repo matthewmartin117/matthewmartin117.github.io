@@ -29,11 +29,11 @@ Reflection: The biggest obstacles so far have been time , but I decided to inves
 
 
 ## Week 5
-- [ ]Scaffolded my project structure for Spring Boot
-- [ ]Implemented in- memory CRUD operations (service layer) 
-- [ ]Outlined REST endpoints in my Controller file (controller layer)
-- [ ]Ran my Spring Boot application, and tested the REST endpoints using Postman
-- [ ]Wrote a simple README that will enable someone to start my application
+- [ ] Scaffolded my project structure for Spring Boot
+- [ ] Implemented in- memory CRUD operations (service layer) 
+- [ ] Outlined REST endpoints in my Controller file (controller layer)
+- [ ] Ran my Spring Boot application, and tested the REST endpoints using Postman
+- [ ] Wrote a simple README that will enable someone to start my application
   
 Relections: One thing I realized this week is that model-view-controller is actually a lot less complicated than it sounds. I think once you build something with it you realize its just a way of organizing files, its a simple pattern that scales up really well. 
 
