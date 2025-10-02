@@ -66,6 +66,11 @@ Clinical & lab workflows, data preprocessing, exploratory data analysis
 
 <div class="projects-grid">
 
+---
+## Current (FALL 2025) Semester Project: Java SpringBoot API + ML Classifier for HIPAA Protected Health Data
+
+🔗 [View My Semester Project ➝](project/index.html)
+
 
 <!-- Project 1 -->
 <div class="project-card">
@@ -122,11 +127,6 @@ Clinical & lab workflows, data preprocessing, exploratory data analysis
 </div>
 
 </div>
-
----
-## Current (FALL 2025) Semester Project: Java SpringBoot API + ML Classifier for HIPAA Protected Health Data
-
-🔗 [View My Semester Project ➝](project/index.html)
 
 ---
 
