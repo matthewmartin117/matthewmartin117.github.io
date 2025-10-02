@@ -16,7 +16,7 @@ I aim to pursue a career building AI and data-driven tools that improve healthca
 
 ---
 
-[View Projects](#projects) | [Download Resume](assets/resumes/AI:MLresume.pdf)
+[View Projects](#projects) | [Download Resume](assets/resumes/AI:ML resume.pdf)
 
 ---
 ## Education
