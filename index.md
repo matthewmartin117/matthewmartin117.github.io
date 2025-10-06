@@ -62,7 +62,7 @@ Clinical & lab workflows, data preprocessing, ETL pipelines, exploratory data an
 
 Developing a secure, full-stack application to classify protected health information (PHI). The project involves building a robust **Java Spring Boot API** to handle sensitive data securely and integrating a machine learning model for real-time classification.
 
-🔗 **[View Progress & Documentation ➝](project/index.html)**
+🔗 **[View Progress & Documentation ➝](project/index.md)**
 ---
 
 <div class="projects-grid">
