@@ -18,7 +18,6 @@ I aim to pursue a career building AI and data-driven tools that improve healthca
 
 [View Projects](#projects) | [Download Resume]()
 
----
 ## Education
 
 **B.S. Computer Science** — University of Colorado Boulder, GPA 4.0, Dec 2025  
@@ -110,7 +109,7 @@ Developing a secure, full-stack application to classify protected health informa
   <p>Built a full-stack web application that simulates infectious disease spread using the SIRD model. Users can adjust parameters and visualize outcomes via interactive dashboards.</p>
   <p><strong>Impact:</strong> Provides an accessible tool for understanding epidemiological concepts and the effects of variables like transmission rate.</p>
   <p><strong>Tech:</strong> Python, Flask, JavaScript</p>
-  <a href="#">Live Demo</a> | <a href="https://github.com/matthewmartin117/SIRMODEL">GitHub</a>
+  <a href="https://github.com/matthewmartin117/SIRMODEL">GitHub</a>
 </div>
 
 <div class="project-card">
@@ -119,7 +118,7 @@ Developing a secure, full-stack application to classify protected health informa
   <p>Engineered a full-stack social media application from the ground up, allowing users to connect based on shared interests through posts, comments, and a recommendation system.</p>
   <p><strong>Impact:</strong> A complete MERN-like stack application featuring user authentication, a RESTful API, and a dynamic front-end.</p>
   <p><strong>Tech:</strong> Python, Flask, React, PostgreSQL</p>
-  <a href="#">Live Demo</a> | <a href="https://github.com/matthewmartin117/hi5ive">GitHub</a>
+  <a href="https://github.com/matthewmartin117/hi5ive">GitHub</a>
 </div>
 
 </div>
