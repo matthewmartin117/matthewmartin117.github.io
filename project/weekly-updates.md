@@ -41,9 +41,9 @@ Goals for week 6: I plan to transition from in-memory CRUD to postgreSQL, writin
 
 ## Week 6
 - [ ] Transitioned the repository layer from in-memory storage to PostgreSQL.
-- [ ]Used H2 for testing and PostgreSQL with proper user permissions for the production database.
-- [ ]Implemented full CRUD functionality with repository:
-- [ ]Verified through integration testing that all three entities are correctly persisted in a permanent database.
+- [ ] Used H2 for testing and PostgreSQL with proper user permissions for the production database.
+- [ ] Implemented full CRUD functionality with repository:
+- [ ] Verified through integration testing that all three entities are correctly persisted in a permanent database.
 
 Reflection: Testing was both frustrating and insightful this week. I solidified my understanding of unit tests vs. integration tests: unit tests validate small pieces of functionality, while integration tests ensure that components work together properly. Setting up tests has proven extremely valuable, as it allows me to quickly verify changes. Debugging was aided by Microsoft Copilot, which caught tricky issues like JSON serialization errors caused by circular references—something I hadn’t realized would be an issue. Overall, I gained a lot of insight into how to structure and test a Spring Boot application with a real database.
 
