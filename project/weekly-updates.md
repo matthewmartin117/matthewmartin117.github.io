@@ -49,4 +49,14 @@ Reflection: Testing was both frustrating and insightful this week. I solidified 
 
 Goals for week 7: I plan to implement authentication and authorization using Spring Security. The goal is to make the project more realistic and secure, protecting sensitive patient data.
 
+## Week 7
+- [ ] Configured Authentication using JSON Web Tokens using Spring Security.
+- [ ] Added Authorization to REST endpoints.
+- [ ] Created unique Roles with different permissions for each endpoint.
+- [ ] Wrote and passed unit and integration tests to ensure robustness and reliability, 
+
+Reflection: This week was one of the most difficult because I found the Spring Security architecure to be complex and overwhelming, with a lot of boilerplate code that I found difficult to understand. I apporached this to try and understand what indidividual piece did before moving into details. For example knowing what a SecurityFilterChain was before exploring each part of it. I have noticed the most frequent challenges stem from unpredictable bugs, usually stemming from version incompatibilities and outdated dependencies. These are so difficult because I struggle to trace it through the code, since most times it is technically not from incorrect code.
+
+Goals for week 7: I will be containerizing my base REST API model using docker, ensuring it can run reliably in the cloud, or any other computer. I will write the dockerfile, build and run the container locally, and update my README file with build/run instructions. This will ensure employers can access my project and use it.
+
 
