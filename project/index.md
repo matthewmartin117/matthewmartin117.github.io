@@ -28,4 +28,4 @@ I’ll be posting weekly progress updates here:
 
 ##  Final Report  
 The final report will be posted here at the end of the semester:  
-[Final Report](final-report.md)
+[Final Report](FinalReport.md)
