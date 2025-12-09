@@ -103,13 +103,13 @@ Last week I attempted to learn what I could about AWS. I decided to go with the 
 Goals for Week 10: Now that the cloud aspect is mostly complete, I will focus on building the machine learning classifier service using NLP concepts. I plan to load a HuggingFace model for PHI detection, create a REST endpoint for the NLP microservice, write unit tests, and ensure integration with the Patient & ClinicalNote models.
 
 ## Week 10
-[ ] Researched HuggingFace models for PII classifying (Named Entity Recognition) and selected ab-ai/pii_model.
+- [ ] Researched HuggingFace models for PII classifying (Named Entity Recognition) and selected ab-ai/pii_model.
 
-[ ] Implemented a prototype redaction service in Google Colab to redact PII from text strings.
+- [ ] Implemented a prototype redaction service in Google Colab to redact PII from text strings.
 
-[ ] Refactored the Colab implementation into a local FastAPI microservice within the VSCode project.
+- [ ] Refactored the Colab implementation into a local FastAPI microservice within the VSCode project.
 
-[ ] Integrated the microservice into the Java application, allowing the ClinicalNote creation operation to call the redaction service automatically.
+- [ ] Integrated the microservice into the Java application, allowing the ClinicalNote creation operation to call the redaction service automatically.
 
 ### Reflection:
 This week was really fun because I got to apply NLP concepts in a deployed modality rather than just running Python code in Colab. Writing actual NLP-powered services in a development environment presented new challenges, such as configuring the environment to use my HuggingFace token and ensuring the lack of a GPU wouldn't throttle performance. The source of most confusion has been on the DevOps side—managing three separate .yml files (local, Docker/Postgres, and AWS) with different URLs and properties has required significant troubleshooting.
