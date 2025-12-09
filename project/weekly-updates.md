@@ -84,3 +84,63 @@ This experience taught me how crucial it is to properly rebuild artifacts before
 
 Goals for Week 6: Next, I will focus on deploying the Dockerized app to AWS using Elastic Beanstalk or ECS. I plan to ensure the database connectivity still works, set up basic monitoring, and use S3 for storing static files or backups. I will also update my README to include AWS deployment instructions so others can run and test the project easily.
 
+
+
+## Week 9
+- [ ] Created an updated .yml configuration file specifically for AWS deployment.
+
+- [ ] Deployed the containerized application to AWS Elastic Beanstalk.
+
+- [ ] Configured the multi-container setup to pass AWS health checks successfully.
+
+- [ ] Updated the README to include specific deployment instructions for AWS.
+
+- [ ] Integrated Amazon S3 to store static files, backups, and sample data.
+
+### Reflection:
+Last week I attempted to learn what I could about AWS. I decided to go with the strategy of deploying a multi-container Docker application using Elastic Beanstalk. To do this, I had to upload my Docker Image to the Elastic Container Repository and enable IAM security configurations. I spent the majority of my time debugging deployment errors—struggling with .zip file configurations, .yml version mismatches, and IAM permissions. The deployed instance initially failed health checks because my security settings blocked endpoint access, requiring me to create a specific "health check" endpoint. After 26 versions and much frustration, I finally got it working!
+
+Goals for Week 10: Now that the cloud aspect is mostly complete, I will focus on building the machine learning classifier service using NLP concepts. I plan to load a HuggingFace model for PHI detection, create a REST endpoint for the NLP microservice, write unit tests, and ensure integration with the Patient & ClinicalNote models.
+
+## Week 10
+[ ] Researched HuggingFace models for PII classifying (Named Entity Recognition) and selected ab-ai/pii_model.
+
+[ ] Implemented a prototype redaction service in Google Colab to redact PII from text strings.
+
+[ ] Refactored the Colab implementation into a local FastAPI microservice within the VSCode project.
+
+[ ] Integrated the microservice into the Java application, allowing the ClinicalNote creation operation to call the redaction service automatically.
+
+### Reflection:
+This week was really fun because I got to apply NLP concepts in a deployed modality rather than just running Python code in Colab. Writing actual NLP-powered services in a development environment presented new challenges, such as configuring the environment to use my HuggingFace token and ensuring the lack of a GPU wouldn't throttle performance. The source of most confusion has been on the DevOps side—managing three separate .yml files (local, Docker/Postgres, and AWS) with different URLs and properties has required significant troubleshooting.
+
+Goals for Week 11: I will finalize the microservice and move towards full integration. I plan to use Pytest for the phi_redactor, write JUnit and Mockito tests for the Java service, and repackage the project using Maven to run a full multi-container test. Finally, I aim to redeploy the project with the added NLP service to Elastic Beanstalk.
+
+## Week 11
+- [ ] Finalized the NLP microservice and implemented testing protocols at each application level.
+
+- [ ] Wrote Pytest scripts to simulate HTTP requests and test the microservice in isolation.
+
+- [ ] Verified that the Java service correctly receives and deserializes JSON from the Python service.
+
+- [ ] Conducted end-to-end testing using Postman to ensure the platform performs as expected when deployed on AWS.
+
+### Reflection:
+I noticed that as the complexity of the application grows, it takes significantly longer to thoroughly test everything. I now have to test the microservice in isolation, then the Java integration, and finally the full AWS deployment via Postman. Balancing this work with three job interviews in two days made productivity difficult, but I managed to finish the core NLP service integration.
+
+Goals for Week 12: I decided to add a CI/CD pipeline using Github Actions to demonstrate DevOps skills to potential employers. I will also construct a Postman collection to visualize the project flow (replacing a full frontend) and focus on improving documentation, error handling, and input validation to surface root causes of errors more clearly.
+
+## Week 12
+- [ ] Set up an automation testing framework using Github Actions to run Python tests on every push.
+
+- [ ] Configured environment secrets to securely pass the HuggingFace token to the CI/CD pipeline.
+
+- [ ] Created a comprehensive Postman collection to demonstrate the full app workflow (Login -> Create Patient/Samples/Notes -> Redaction -> Deletion).
+
+- [ ] Verified regression testing: ensured that new features didn't break the existing NLP classifier.
+
+Reflection:
+This class has been great. Every time I start a project it usually fizzles out, but seeing everyone else's progress inspired me to deliver something I can be proud of. Completing this project has shown me how far I've come, allowing me to apply multiple technologies like Spring, AWS, Github Actions, and FastAPI—many of which I wasn't familiar with before. The most valuable thing I learned in CSPB is the ability to learn and apply new technologies as they evolve.
+
+Goals for Final Submission: I need to finalize error handling to keep users on the "happy path," create a thorough README with instructions for all deployment types (local, Docker, AWS), create a metrics table for the NLP classifier (latency, precision, recall, F-1), and record the final demo video.
+
