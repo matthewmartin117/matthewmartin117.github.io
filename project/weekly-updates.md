@@ -139,7 +139,7 @@ Goals for Week 12: I decided to add a CI/CD pipeline using Github Actions to dem
 
 - [ ] Verified regression testing: ensured that new features didn't break the existing NLP classifier.
 
-Reflection:
+### Reflection:
 This class has been great. Every time I start a project it usually fizzles out, but seeing everyone else's progress inspired me to deliver something I can be proud of. Completing this project has shown me how far I've come, allowing me to apply multiple technologies like Spring, AWS, Github Actions, and FastAPI—many of which I wasn't familiar with before. The most valuable thing I learned in CSPB is the ability to learn and apply new technologies as they evolve.
 
 Goals for Final Submission: I need to finalize error handling to keep users on the "happy path," create a thorough README with instructions for all deployment types (local, Docker, AWS), create a metrics table for the NLP classifier (latency, precision, recall, F-1), and record the final demo video.
